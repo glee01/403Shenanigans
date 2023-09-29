@@ -12,7 +12,7 @@ jones
 kilpatrick
 landry
 lee
-lee
+[x] lee
 mounts
 nobb-ee
 olivier
